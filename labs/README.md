@@ -20,4 +20,7 @@
 - **invoices** - таблиця, яка містить загальну суму, яку витратив гість на послуги за проживання
 - **maintainance_requests**- містить інформацію про запити гостей та персоналу на відлагодження або якісь інші проблеми в номерах
 
-- ![image](https://github.com/user-attachments/assets/96846d7a-4658-4dae-8d57-a49c75667dad)
+![bookings](https://github.com/user-attachments/assets/7f8e4263-b626-4ac6-a6e2-12aeabc0c4e9)
+
+
+
